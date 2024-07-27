@@ -4,7 +4,7 @@ import dishIcon from './../../../assets/images/icons/dish-removebg-preview.png'
 import healthIcon from './../../../assets/images/icons/medi.webp' 
 const IconSection = () => {
     return (
-        <section className='flex gap-5 mt-64 mb-36'>
+        <section className='flex gap-5 mt-48 mb-36'>
             <div className="card w-80 bg-base-100 shadow-xl">
                 <figure className="px-10 pt-10">
                     <img src={foodIcon} alt="Shoes" className="rounded-xl h-[80px]" />

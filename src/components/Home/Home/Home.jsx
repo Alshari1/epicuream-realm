@@ -14,7 +14,7 @@ const Home = () => {
     const data = useLoaderData()
     const handleView = () => {
         const cart = document.querySelector('.cart-container');
-        cart.classList.remove('h-[750px]')
+        cart.classList.remove('h-[450px]')
         document.getElementById('viewAll-btn').classList = 'hidden'
     }
     console.log(data)
@@ -27,7 +27,7 @@ const Home = () => {
             <Legend></Legend>
             <SectionTitle title='Our Honorable Chefs' subtitle='Legends are not born; they are forged through the fire of passion, dedication, and a relentless pursuit of excellence.'></SectionTitle>
             <section>
-                <div className='cart-container grid grid-cols-3 overflow-hidden h-[750px]'>
+                <div className='cart-container grid grid-cols-3 overflow-hidden h-[450px] mt-52'>
                     {
                         data.map(details => <ChefCart key={details._code} data={details}></ChefCart>)
                     }
