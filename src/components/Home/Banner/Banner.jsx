@@ -7,7 +7,7 @@ const Banner = () => {
     {/* <img src={chefImg} className="max-w-sm rounded-lg shadow-2xl absolute left-0 bottom-0 border border-red-600" /> */}
     <div>
       <h1 className="text-5xl font-bold">Welcome To Our Realm</h1>
-      <p className="py-6"> Step into a world where culinary artistry meets exceptional flavors, and embark on a gastronomic adventure unlike any other.</p>
+      <p className="py-6"> Step into a world where culinary artistry meets exceptional flavors, <br />and  embark on a gastronomic adventure unlike any other.</p>
       <h1 className='text-7xl'>This is</h1>
       <div className='text-9xl' style={{fontFamily:'DM Serif Display'}}>
       <p>Epicuream</p>
