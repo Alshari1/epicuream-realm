@@ -1,8 +1,8 @@
 import banner from './../../../assets/images/banner/banner-1.jpg'
-import chefImg from './../../../assets/images/banner/bg-1.png'
+// import chefImg from './../../../assets/images/banner/bg-1.png'
 const Banner = () => {
     return (
-        <div style={{backgroundImage:`url('${banner}')`}} className="text-white hero min-h-screen bg-base-200 bg-cover bg-no-repeat h-[600px] absolute top-24">
+        <div style={{backgroundImage:`url('${banner}')`}} className="text-white hero min-h-screen bg-base-200 bg-cover bg-no-repeat h-[600px] relative top-24">
   <div className="hero-content flex-col lg:flex-row">
     {/* <img src={chefImg} className="max-w-sm rounded-lg shadow-2xl absolute left-0 bottom-0 border border-red-600" /> */}
     <div>

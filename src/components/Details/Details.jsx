@@ -1,7 +1,9 @@
+import { Outlet } from "react-router-dom";
+
 const Details = () => {
     return (
-        <div>
-            <h1>from details</h1>
+        <div className="m-auto mt-20 bg-slate-800 rounded-xl" style={{height:'550px', width:'1240px'}}>
+            <Outlet></Outlet>
         </div>
     );
 };

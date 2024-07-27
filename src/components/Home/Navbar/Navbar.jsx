@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
     return (
-        <nav className="text-white fixed top-0 z-10 w-[100vw]">
+        <nav className="fixed top-0 z-10 w-[100vw]">
             <div className="navbar bg-slate-800 px-20 py-5">
                 <div className="navbar-start">
                     <div className="dropdown">
@@ -19,7 +19,7 @@ const Navbar = () => {
 
                         </ul>
                     </div>
-                    <p className="text-5xl" style={{ fontFamily: 'Pacifico' }}>Epicuream Realm</p>
+                    <p className="text-4xl" style={{ fontFamily: 'Pacifico' }}>Epicuream Realm</p>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1 text-base font-semibold">

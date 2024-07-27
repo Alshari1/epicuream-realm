@@ -1,0 +1,138 @@
+[
+    {
+        "id": "642c155b2c4774f05c36eeaa",
+        "recipe_name": "Duck Foie Gras",
+        "country": "France",
+        "img": "./chefs/Alain Ducasse.jpeg",
+        "made_with": [
+            "Duck Liver",
+            "Salt",
+            "Pepper",
+            "Port Wine",
+            "Sugar",
+            "Spices"
+        ],
+        "ratings": 4.8,
+        "details": "Alain Ducasse's Duck Foie Gras is a decadent dish that features rich duck liver seasoned with a blend of salt, pepper, and spices. It's then marinated in port wine and sugar to create a harmonious balance of flavors. The foie gras is seared to perfection, resulting in a melt-in-your-mouth delicacy that captures the essence of French haute cuisine."
+    },
+    {
+        "id": "1b5d038f739de6a2e5e2a7f3",
+        "recipe_name": "Squab with Chocolates",
+        "country": "France",
+        "img": "./chefs/Pierre Gagnaire.jpeg",
+        "made_with": [
+            "Squab",
+            "Chocolates",
+            "Salt",
+            "Pepper",
+            "Spices"
+        ],
+        "ratings": 4.7,
+        "details": "Pierre Gagnaire's Squab with Chocolates is a unique creation that marries the rich flavors of game bird with the complexity of chocolates. The tender squab is seasoned with a blend of salt, pepper, and spices, then paired with a chocolate-based sauce that adds depth and richness to the dish. The result is a harmonious blend of savory and sweet that's emblematic of Gagnaire's innovative approach to French cuisine."
+    },
+    {
+        "id": "3e2f5a1c6b842d8e9f0a7b4c",
+        "recipe_name": "Grilled Lobster",
+        "country": "Spain",
+        "img": "./chefs/Martin Berasategui.jpeg",
+        "made_with": [
+            "Lobster",
+            "Olive Oil",
+            "Garlic",
+            "Lemon",
+            "Herbs"
+        ],
+        "ratings": 4.9,
+        "details": "Martin Berasategui's Grilled Lobster is a celebration of the sea's bounty. The succulent lobster is brushed with olive oil, seasoned with garlic and fresh herbs, and then grilled to perfection. Served with a squeeze of zesty lemon, this dish captures the essence of Spanish coastal cuisine."
+    },
+    {
+        "id": "4d5e6f7a8b9c0d1e2f3a4b5",
+        "recipe_name": "Pike Perch Cooked Meunière",
+        "country": "France",
+        "img": "./chefs/Yannick Alléno.jpeg",
+        "made_with": [
+            "Pike Perch",
+            "Flour",
+            "Butter",
+            "Lemon",
+            "Herbs"
+        ],
+        "ratings": 4.6,
+        "details": "Yannick Alléno's Pike Perch Cooked Meunière is a classic French dish that showcases the delicate flavors of freshwater fish. The pike perch is lightly coated in flour and pan-fried in butter until it develops a golden-brown crust. Finished with a drizzle of lemon and fresh herbs, this dish is a testament to Alléno's mastery of French culinary traditions."
+    },
+    {
+        "id": "6c7d8e9f0a1b2c3d4e5f6a7",
+        "recipe_name": "Berlingots",
+        "country": "France",
+        "img": "./chefs/Anne-Sophie Pic.jpeg",
+        "made_with": [
+            "Pasta Dough",
+            "Cheese Filling",
+            "Cream",
+            "Butter",
+            "Herbs"
+        ],
+        "ratings": 4.5,
+        "details": "Anne-Sophie Pic's Berlingots are a delightful pasta creation that brings together a delicate pasta dough filled with a luxurious blend of cheese, cream, and herbs. The berlingots are cooked to perfection and served with a light buttery sauce. This dish reflects Pic's innovative take on traditional French flavors."
+    },
+    {
+        "id": "8e9f0a1b2c3d4e5f6a7b8c9",
+        "recipe_name": "Beef Wellington",
+        "country": "United Kingdom",
+        "img": "./chefs/Gordon Ramsay.jpeg",
+        "made_with": [
+            "Beef Fillet",
+            "Puff Pastry",
+            "Mushrooms",
+            "Duxelles",
+            "Prosciutto"
+        ],
+        "ratings": 4.9,
+        "details": "Gordon Ramsay's Beef Wellington is a British culinary masterpiece. A tender beef fillet is coated with savory duxelles, wrapped in puff pastry, and baked to perfection. The result is a flavorful and visually stunning dish that showcases Ramsay's expertise in combining classic techniques with modern presentation."
+    },
+    {
+        "id": "a1b2c3d4e5f6a7b8c9d0e1f",
+        "recipe_name": "Oysters and Pearls",
+        "country": "United States",
+        "img": "./chefs/Thomas Kellerjpeg.jpeg",
+        "made_with": [
+            "Oysters",
+            "Caviar",
+            "Pearls",
+            "Cream",
+            "Lemon"
+        ],
+        "ratings": 4.8,
+        "details": "Thomas Keller's Oysters and Pearls is an elegant and luxurious dish that combines the briny flavors of oysters with the delicate texture of caviar and pearls. Served with a creamy sauce and a touch of lemon, this dish is a testament to Keller's commitment to precision and the finest ingredients."
+    },
+    {
+        "id": "b2c3d4e5f6a7b8c9d0e1f2a",
+        "recipe_name": "Sushi",
+        "country": "Japan",
+        "img": "./chefs/Yoshihiro Murata.jpeg",
+        "made_with": [
+            "Fish",
+            "Rice",
+            "Seaweed",
+            "Soy Sauce",
+            "Wasabi"
+        ],
+        "ratings": 4.9,
+        "details": "Yoshihiro Murata's Sushi is a culinary art form that pays homage to the tradition of Japanese craftsmanship. Each delicate piece of fish is expertly paired with vinegared rice, wrapped in seaweed, and seasoned with soy sauce and wasabi. Murata's commitment to sourcing the finest ingredients ensures an authentic and unforgettable sushi experience."
+    },
+    {
+        "id": "c3d4e5f6a7b8c9d0e1f2a3b",
+        "recipe_name": "Soy Sauce Gelato",
+        "country": "Japan",
+        "img": "./chefs/Seiji Yamamoto.jpeg",
+        "made_with": [
+            "Soy Sauce",
+            "Milk",
+            "Sugar",
+            "Egg Yolks",
+            "Vanilla"
+        ],
+        "ratings": 4.7,
+        "details": "Seiji Yamamoto's Soy Sauce Gelato is a remarkable dessert that challenges traditional notions of flavors. This innovative creation features the umami-rich depth of soy sauce paired with the creaminess of gelato. Yamamoto's meticulous balance of ingredients creates a surprising and delightful culinary experience."
+    }
+]

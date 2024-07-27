@@ -1,0 +1,317 @@
+[
+    {
+        "_code": "642c155b2c4774f05c36eeaa",
+        "name": "Alain Ducasse",
+        "img": "./chefs/Alain Ducasse.jpeg",
+        "country": "France",
+        "bestRecipe": "Duck Foie Gras",
+        "workPlace": "Restaurant Alain Ducasse",
+        "my_recipe": [
+            "French Onion Soup",
+            "Coq au Vin",
+            "Ratatouille",
+            "Croissant",
+            "Beef Bourguignon",
+            "Crème Brûlée",
+            "Quiche Lorraine",
+            "Escargot",
+            "Cassoulet",
+            "Tarte Tatin"
+        ],
+        "details": "Alain Ducasse is a renowned French chef known for his exceptional culinary expertise. With his restaurant, Alain Ducasse, he has earned multiple Michelin stars and is celebrated for dishes like Duck Foie Gras."
+    },
+    {
+        "_code": "1b5d038f739de6a2e5e2a7f3",
+        "name": "Pierre Gagnaire",
+        "img": "./chefs/Pierre Gagnaire.jpeg",
+        "country": "France",
+        "bestRecipe": "Squab with Chocolates",
+        "workPlace": "Restaurant Pierre Gagnaire",
+        "my_recipe": [
+            "Salmon en Croûte",
+            "Coquilles Saint-Jacques",
+            "Bouillabaisse",
+            "Crepes Suzette",
+            "Gratin Dauphinois",
+            "Tarte Flambée",
+            "Bûche de Noël",
+            "Pot-au-Feu",
+            "Macarons",
+            "Profiteroles"
+        ],
+        "details": "Pierre Gagnaire, a French chef with an avant-garde approach, is known for creating intricate dishes at his restaurant, Pierre Gagnaire. His innovative Squab with Chocolates is a standout recipe."
+    },
+    {
+        "_code": "3e2f5a1c6b842d8e9f0a7b4c",
+        "name": "Martin Berasategui",
+        "img": "./chefs/Martin Berasategui.jpeg",
+        "country": "Spain",
+        "bestRecipe": "Grilled Lobster",
+        "workPlace": "Martin Berasategui Restaurant",
+        "my_recipe": [
+            "Paella",
+            "Tapas",
+            "Gazpacho",
+            "Churros",
+            "Jamón Ibérico",
+            "Pulpo a la Gallega",
+            "Tortilla Española",
+            "Sangria",
+            "Crema Catalana",
+            "Patatas Bravas"
+        ],
+        "details": "Hailing from Spain, Martin Berasategui is acclaimed for his culinary mastery. His restaurant, Martin Berasategui, is famous for serving delectable dishes like Grilled Lobster."
+    },
+    {
+        "_code": "4d5e6f7a8b9c0d1e2f3a4b",
+        "name": "Yannick Alléno",
+        "img": "./chefs/Yannick Alléno.jpeg",
+        "country": "France",
+        "bestRecipe": "Pike Perch Cooked Meunière",
+        "workPlace": "Pavillon Ledoyen",
+        "my_recipe": [
+            "Coquilles Saint-Jacques à la Bretonne",
+            "Bouillabaisse",
+            "Cassoulet",
+            "Tarte Tatin",
+            "Escargot",
+            "Confit de Canard",
+            "Salade Niçoise",
+            "Ratatouille",
+            "Crêpes Suzette",
+            "Soufflé au Fromage"
+        ],
+        "details": "Yannick Alléno, a prominent French chef, is known for his culinary prowess at Pavillon Ledoyen. His Pike Perch Cooked Meunière is a standout dish among his impressive repertoire."
+    },
+    {
+        "_code": "6c7d8e9f0a1b2c3d4e5f6a7",
+        "name": "Anne-Sophie Pic",
+        "img": "./chefs/Anne-Sophie Pic.jpeg",
+        "country": "France",
+        "bestRecipe": "Berlingots",
+        "workPlace": "Maison Pic",
+        "my_recipe": [
+            "Quenelle de Brochet",
+            "Bouillabaisse",
+            "Coq au Vin",
+            "Bœuf Bourguignon",
+            "Pot-au-Feu",
+            "Ratatouille",
+            "Crème Brûlée",
+            "Croissant",
+            "Tarte Tatin",
+            "Éclair au Chocolat"
+        ],
+        "details": "Anne-Sophie Pic, a distinguished French chef, carries on the legacy of Maison Pic. Her culinary finesse shines in dishes like Berlingots, showcasing her devotion to quality and flavor."
+    },
+    {
+        "_code": "8e9f0a1b2c3d4e5f6a7b8c9",
+        "name": "Gordon Ramsay",
+        "img": "./chefs/Gordon Ramsay.jpeg",
+        "country": "United Kingdom",
+        "bestRecipe": "Beef Wellington",
+        "workPlace": "Restaurant Gordon Ramsay",
+        "my_recipe": [
+            "Shepherd's Pie",
+            "Fish and Chips",
+            "Bangers and Mash",
+            "Chicken Tikka Masala",
+            "English Breakfast",
+            "Yorkshire Pudding",
+            "Steak and Kidney Pie",
+            "Victoria Sponge Cake",
+            "Sticky Toffee Pudding",
+            "Trifle"
+        ],
+        "details": "Gordon Ramsay, a celebrity chef from the United Kingdom, is known for his fiery personality and culinary skills. His restaurant, Restaurant Gordon Ramsay, is renowned for dishes like Beef Wellington."
+    },
+    {
+        "_code": "d4e5f6a7b8c9d0e1f2a3b4c",
+        "name": "Andreas Caminada",
+        "img": "./chefs/Andreas Caminada.jpeg",
+        "country": "Switzerland",
+        "bestRecipe": "Grilled Turbot",
+        "workPlace": "Schloss Schauenstein",
+        "my_recipe": [
+            "Rösti",
+            "Fondue",
+            "Zürcher Eintopf",
+            "Bircher Müesli",
+            "Raclette",
+            "Zürcher Geschnetzeltes",
+            "Swiss Chocolate Fondue",
+            "Spätzle",
+            "Berner Platte",
+            "Nusstorte"
+        ],
+        "details": "Andreas Caminada, a Swiss culinary maestro, is renowned for his work at Schloss Schauenstein. His inventive Grilled Turbot and skillful preparation of Swiss dishes like Rösti showcase his culinary artistry."
+    },
+    {
+        "_code": "e5f6a7b8c9d0e1f2a3b4c5d",
+        "name": "Carme Ruscalleda",
+        "img": "./chefs/carme_uscalleda.jpeg",
+        "country": "Spain",
+        "bestRecipe": "Lobster Salad",
+        "workPlace": "Sant Pau",
+        "my_recipe": [
+            "Gazpacho",
+            "Paella",
+            "Churros",
+            "Pulpo a la Gallega",
+            "Patatas Bravas",
+            "Crema Catalana",
+            "Croquetas",
+            "Sangria",
+            "Tarta de Santiago",
+            "Arroz con Leche"
+        ],
+        "details": "Carme Ruscalleda, a distinguished Spanish chef, has earned acclaim for her work at Sant Pau. Her expertise in creating dishes like Lobster Salad showcases her commitment to traditional Spanish flavors."
+    },
+    {
+        "_code": "f6a7b8c9d0e1f2a3b4c5d6e",
+        "name": "Heston Blumenthal",
+        "img": "./chefs/Heston Blumenthal.jpeg",
+        "country": "United Kingdom",
+        "bestRecipe": "Bacon and Egg Ice Cream",
+        "workPlace": "The Fat Duck",
+        "my_recipe": [
+            "Fish and Chips",
+            "Chicken Tikka Masala",
+            "Shepherd's Pie",
+            "Full English Breakfast",
+            "Beef Wellington",
+            "Sticky Toffee Pudding",
+            "Black Pudding",
+            "Cornish Pasty",
+            "Ploughman's Lunch",
+            "Pimm's Cup"
+        ],
+        "details": "Heston Blumenthal, a British chef with a penchant for innovative creations, gained fame at The Fat Duck. His unusual yet delightful Bacon and Egg Ice Cream is a testament to his creative genius."
+    },
+    {
+        "_code": "1a2b3c4d5e6f7a8b9c0d1e",
+        "name": "Masahiro Yoshitake",
+        "img": "./chefs/Martin Berasategui.jpeg",
+        "country": "Japan",
+        "bestRecipe": "Sushi",
+        "workPlace": "Sushi Yoshitake",
+        "my_recipe": [
+            "Sashimi",
+            "Tempura",
+            "Udon",
+            "Tofu",
+            "Sukiyaki",
+            "Tonkatsu",
+            "Miso Soup",
+            "Yakitori",
+            "Okonomiyaki",
+            "Chawanmushi"
+        ],
+        "details": "Masahiro Yoshitake is a distinguished Japanese chef who specializes in sushi at Sushi Yoshitake. His intricate and precise techniques create an exceptional dining experience, with Sushi being his hallmark dish."
+    },
+    {
+        "_code": "2b3c4d5e6f7a8b9c0d1e2f",
+        "name": "Heinz Beck",
+        "img": "./chefs/Yoshihiro Murata.jpeg",
+        "country": "Germany",
+        "bestRecipe": "Fagottelli Carbonara",
+        "workPlace": "La Pergola",
+        "my_recipe": [
+            "Bratwurst",
+            "Sauerbraten",
+            "Pretzels",
+            "Schnitzel",
+            "Kartoffelsalat",
+            "Eisbein",
+            "Kohlrouladen",
+            "Apfelstrudel",
+            "Bienenstich",
+            "Zwetschgenkuchen"
+        ],
+        "details": "Heinz Beck, a German chef, is celebrated for his expertise at La Pergola. His Fagottelli Carbonara and mastery over traditional German cuisine showcase his dedication to culinary excellence."
+    },
+    {
+        "_code": "3c4d5e6f7a8b9c0d1e2f3a",
+        "name": "Jordi Cruz",
+        "img": "./chefs/Jordi Cruz.jpeg",
+        "country": "Spain",
+        "bestRecipe": "Scallops with Celeriac and Truffle",
+        "workPlace": "ABaC Restaurant & Hotel",
+        "my_recipe": [
+            "Gazpacho",
+            "Paella",
+            "Pulpo a la Gallega",
+            "Tortilla Española",
+            "Patatas Bravas",
+            "Crema Catalana",
+            "Churros",
+            "Sangria",
+            "Tarta de Santiago",
+            "Arroz con Leche"
+        ],
+        "details": "Jordi Cruz, a prominent Spanish chef, creates culinary wonders at ABaC Restaurant & Hotel. His Scallops with Celeriac and Truffle epitomize his innovative approach to Spanish cuisine."
+    },
+    {
+        "_code": "4d5e6f7a8b9c0d1e2f3a4d",
+        "name": "Paco Perez",
+        "img": "./chefs/Pierre Gagnaire.jpeg",
+        "country": "Spain",
+        "bestRecipe": "Puffed Rice with Sea Anemone",
+        "workPlace": "Miramar",
+        "my_recipe": [
+            "Gazpacho",
+            "Paella",
+            "Pulpo a la Gallega",
+            "Tortilla Española",
+            "Patatas Bravas",
+            "Crema Catalana",
+            "Churros",
+            "Sangria",
+            "Tarta de Santiago",
+            "Arroz con Leche"
+        ],
+        "details": "Paco Perez, a Spanish chef known for his creative flair, delights diners at Miramar. His Puffed Rice with Sea Anemone showcases his mastery of combining textures and flavors."
+    },
+    {
+        "_code": "5e6f7a8b9c0d1e2f3a4b5c",
+        "name": "Quique Dacosta",
+        "img": "./chefs/clemens.webp",
+        "country": "Spain",
+        "bestRecipe": "Almond Nougat",
+        "workPlace": "Quique Dacosta Restaurante",
+        "my_recipe": [
+            "Gazpacho",
+            "Paella",
+            "Pulpo a la Gallega",
+            "Tortilla Española",
+            "Patatas Bravas",
+            "Crema Catalana",
+            "Churros",
+            "Sangria",
+            "Tarta de Santiago",
+            "Arroz con Leche"
+        ],
+        "details": "Quique Dacosta, a visionary Spanish chef, astounds patrons at Quique Dacosta Restaurante. His Almond Nougat reflects his passion for reinventing traditional Spanish sweets."
+    },
+    {
+        "_code": "6f7a8b9c0d1e2f3a4b5c6d",
+        "name": "Joan Roca",
+        "img": "./chefs/Seiji Yamamoto.jpeg",
+        "country": "Spain",
+        "bestRecipe": "Charcoal-Grilled Lobster",
+        "workPlace": "El Celler de Can Roca",
+        "my_recipe": [
+            "Gazpacho",
+            "Paella",
+            "Pulpo a la Gallega",
+            "Tortilla Española",
+            "Patatas Bravas",
+            "Crema Catalana",
+            "Churros",
+            "Sangria",
+            "Tarta de Santiago",
+            "Arroz con Leche"
+        ],
+        "details": "Joan Roca, a culinary virtuoso, captivates diners at El Celler de Can Roca. His Charcoal-Grilled Lobster and inventive take on Spanish classics mark him as a master of his craft."
+    }
+]
